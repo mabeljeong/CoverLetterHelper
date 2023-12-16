@@ -1,1 +1,10 @@
-eqy
+Python == 3.8.16
+beautifulsoup4 == 4.12.2
+gensim == 3.8.3
+konlpy == 0.6.0
+mecab-python3 == 1.0.6
+scikit-learn == 1.0
+streamlit == 1.22.0
+streamlit-option-menu == 0.3.2
+tokenizers == 0.13.3
+transformers == 4.28.1
