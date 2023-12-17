@@ -34,12 +34,12 @@ if selected == "서비스 소개":
     st.markdown("<div style='text-align: center;'><h2>서비스 제작 이유</h2></div>", unsafe_allow_html=True)
     st.title(' ')
 
-    left_co,last_co = st.columns([1,1])
-    with left_co :
+    #left_co,last_co = st.columns([1,1])
+    #with left_co :
         #image = Image.open("/home/ubuntu/workspace/SemiPJT_team2/SemiPJT_team2/others/i1.png")
         #new_image = image.resize((700,600))
         #st.image(new_image)
-    with last_co :
+    #with last_co :
         #image = Image.open("/home/ubuntu/workspace/SemiPJT_team2/SemiPJT_team2/others/i2.png")
         #new_image = image.resize((700,600))
         #st.image(new_image)
