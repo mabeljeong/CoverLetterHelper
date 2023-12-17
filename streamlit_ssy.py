@@ -36,13 +36,13 @@ if selected == "서비스 소개":
 
     left_co,last_co = st.columns([1,1])
     with left_co :
-        image = Image.open("/home/ubuntu/workspace/SemiPJT_team2/SemiPJT_team2/others/i1.png")
-        new_image = image.resize((700,600))
-        st.image(new_image)
+        #image = Image.open("/home/ubuntu/workspace/SemiPJT_team2/SemiPJT_team2/others/i1.png")
+        #new_image = image.resize((700,600))
+        #st.image(new_image)
     with last_co :
-        image = Image.open("/home/ubuntu/workspace/SemiPJT_team2/SemiPJT_team2/others/i2.png")
-        new_image = image.resize((700,600))
-        st.image(new_image)
+        #image = Image.open("/home/ubuntu/workspace/SemiPJT_team2/SemiPJT_team2/others/i2.png")
+        #new_image = image.resize((700,600))
+        #st.image(new_image)
     st.write(' ')
     st.markdown("<p align='center'> <font size = '4'> 취업준비생이 시간을 많이 투자하고 준비하기 힘들어하는   </font></p>", unsafe_allow_html=True)
     st.markdown("<p align='center'> <font size = '4'> 자기소개서를 쉽게 작성하고자 서비스를 제작하게 되었습니다.  </font></p>", unsafe_allow_html=True)
